@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm_mydome.iml" filepath="$PROJECT_DIR$/ssm_mydome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm_mydome_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm_mydome_main.iml" group="ssm_mydome" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm_mydome_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm_mydome_test.iml" group="ssm_mydome" />
+    </modules>
+  </component>
+</project>
